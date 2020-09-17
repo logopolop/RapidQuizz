@@ -14,9 +14,9 @@ This game is freely inspired by a Swift course from OpenClassrooms.com
 ### Assistance : 
 
 Having some troubles using the app ? 
-See the [assistance] to figure it out.(assistance.md)
+See the [assistance](assistance.md) to figure it out.
 
 ### Privacy : 
 
 If you are wondering about privacy, we are not collecting any of your data.
-See the [privacy engagement].(privacy.md)
+See the [privacy engagement.](privacy.md)
