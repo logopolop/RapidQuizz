@@ -1,6 +1,6 @@
 # RapidQuizz
 
-**True or False ? Swipe and Win !**
+## **True or False ? Swipe and Win !**
 
 <br />
 
@@ -10,8 +10,6 @@ All the questions are provided by [*Open Trivia DB API*](https://opentdb.com/api
 
 This game is freely inspired by a Swift course from OpenClassrooms.com
 
-
-<br />
 
 #### Assistance : 
 
