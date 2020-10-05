@@ -2,6 +2,8 @@
 
 ## **True or False ? Swipe and Win !**
 
+[*Télécharger l'application !*](https://apps.apple.com/in/app/rapidquizz/id1529603926)
+
 <br />
 
 RapidQuizz is an iOS Quiz Game made with *Swift 5*. 
