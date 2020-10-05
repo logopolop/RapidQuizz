@@ -2,7 +2,7 @@
 
 ## **True or False ? Swipe and Win !**
 
-[*Télécharger l'application !*](https://apps.apple.com/in/app/rapidquizz/id1529603926)
+[*Download now for free !*](https://apps.apple.com/in/app/rapidquizz/id1529603926)
 
 <br />
 
