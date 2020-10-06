@@ -88,7 +88,8 @@ Are you facing some troubles using the app ? check the most frequently asked que
   <br />
   
   ```
-  If you never turned on Game Center the score will be lose forever. Otherwise just run the app with Game Center on and you'll get back your score.
+  If you never turned on Game Center the score is lost forever. 
+  Otherwise just run the app with Game Center on and you'll get back your score.
   ```
   
 </details>
